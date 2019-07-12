@@ -44,7 +44,8 @@ PRODUCT_PACKAGES += \
     android.hardware.keymaster@3.0-impl \
     android.hardware.memtrack@1.0-service \
     android.hardware.memtrack@1.0-impl \
-    android.hardware.wifi@1.0-service
+    android.hardware.wifi@1.0-service \
+    vendor.peyo.simple@1.0-service
 
 # system configurations
 PRODUCT_COPY_FILES := \

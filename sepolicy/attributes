@@ -1,0 +1,3 @@
+attribute hal_simple;
+attribute hal_simple_client;
+attribute hal_simple_server;

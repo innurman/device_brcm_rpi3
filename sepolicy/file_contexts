@@ -4,3 +4,5 @@
 /dev/ttyAMA0                    u:object_r:hci_attach_dev:s0
 
 /sys/class/rfkill/rfkill0/state u:object_r:sysfs_bluetooth_writable:s0
+
+/(vendor|system/vendor)/bin/hw/vendor\.peyo\.simple@1\.0-service  u:object_r:hal_simple_default_exec:s0
