@@ -36,7 +36,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.graphics.allocator@2.0-service.arpi \
     android.hardware.graphics.mapper@2.0-impl.arpi \
-    android.hardware.graphics.composer@2.1-impl.arpi \
+    android.hardware.graphics.composer@2.1-impl \
     android.hardware.audio@2.0-impl \
     android.hardware.audio.effect@2.0-impl \
     android.hardware.keymaster@3.0-impl \
